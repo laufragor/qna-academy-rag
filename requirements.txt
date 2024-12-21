@@ -1,0 +1,9 @@
+google-generativeai==0.8.3
+langchain-google-genai==2.0.4
+langchain==0.3.7
+langchain_community==0.3.5
+faiss-cpu==1.7.4
+huggingface-hub==0.25.0
+sentence-transformers==2.2.2
+InstructorEmbedding==1.0.1
+streamlit==1.40.0
